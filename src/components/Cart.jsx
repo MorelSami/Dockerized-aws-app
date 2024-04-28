@@ -55,7 +55,7 @@ function Cart() {
         <div className="price-card flex ">
           <img src="./shop.png" alt="" className="img" />
           <div>
-            <h4>Shop All Items in Your Cart</h4>
+            <h4>Shop the below Items in Your Cart</h4>
             <div>Total Price={totalPrice}</div>
             <Button className="btn">Buy Now</Button>
           </div>
