@@ -31,7 +31,7 @@ function Header() {
           Hello <br />
           <span className="bold">
             <i className="fas fa-map-marker-alt"></i>
-            Select your address
+            Select your current address
           </span>
         </div>
         <form className="flex">
